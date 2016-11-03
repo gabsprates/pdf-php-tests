@@ -1,0 +1,14 @@
+{
+    "name": "gabriel/pdf",
+    "description": "generating PDF with PHP (tests)",
+    "authors": [
+        {
+            "name": "Gabriel Prates",
+            "email": "me@gabsprates.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.7.0",
+        "mpdf/mpdf": "^6.1"
+    }
+}
